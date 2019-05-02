@@ -1,0 +1,20 @@
+import React from "React";
+
+// This function maps props passed down from [App.js] into an array of links.
+const mapPropsToLinks = 
+
+
+// This function returns JSX for the nav bar at top of the homepage.
+const nav = (props) => {
+    <li>
+      
+     
+
+    </li>
+        
+        
+        
+        
+}
+
+export default nav;
