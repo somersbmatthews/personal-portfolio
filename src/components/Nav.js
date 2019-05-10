@@ -1,10 +1,10 @@
-import React from "React";
+import React from "react";
 
 
 const nav = () => {
-
-    test
-
+    return(
+        <h1>test of nav return functional component</h1>
+    )
 }
 
-export default Nav;
+export default nav;
