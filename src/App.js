@@ -10,8 +10,7 @@ function App() {
     <div className="App">
           <div>About</div>
           <div>Contact</div>
-          <div>Projects</div>
-          
+          <div>Projects</div>          
     </div>
   );
 }
