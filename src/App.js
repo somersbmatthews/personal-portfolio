@@ -8,7 +8,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-          <Nav />
+          <div>About</div>
+          <div>Contact</div>
+          <div>Projects</div>
+          
     </div>
   );
 }
