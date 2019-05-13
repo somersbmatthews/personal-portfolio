@@ -6,7 +6,9 @@
     "@material-ui/core": "^3.9.3",
     "enzyme": "^3.9.0",
     "jest": "^24.7.1",
+    "radium": "^0.25.1",
     "react": "^16.8.6",
+    "react-animations": "^1.0.0",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.0"
